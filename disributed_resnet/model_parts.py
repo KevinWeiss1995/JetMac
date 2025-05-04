@@ -1,4 +1,3 @@
-# model_parts.py
 import torch
 import torch.nn as nn
 from torch.distributed.rpc import RRef, rpc_sync
